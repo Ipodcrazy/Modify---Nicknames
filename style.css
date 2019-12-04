@@ -1,0 +1,18 @@
+html {
+    background-color: white;
+}
+
+h1, p, hr, a {
+    color: white;
+}
+
+body {
+    background-color: royalblue;
+    width: 700px;
+    padding: 10px 150px 500px;
+    margin: auto;
+}
+
+#nick {
+    font-size: 25px;
+}
